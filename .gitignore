@@ -1,0 +1,8 @@
+/target/
+/upstream/
+/data/
+/dist/
+/bridge/bin/
+*.exe
+*.pdb
+*.zip
